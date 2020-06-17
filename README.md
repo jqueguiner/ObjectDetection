@@ -57,7 +57,7 @@ The basline for this notebook was created by [Sylvain Gugger](https://github.com
 # Examples:
 - [Medical images](object_detection_fastai/examples/Cells_Retina_Net.ipynb)
 - [Coco subset](object_detection_fastai/examples/CocoTiny_Retina_Net.ipynb)
-- [Coco Colab](object_detection_fastai/https://colab.research.google.com/drive/1qUEy1w8uYT2PQhan77RIn8NhfE_bMk63)
+- [Coco Colab](https://colab.research.google.com/drive/1qUEy1w8uYT2PQhan77RIn8NhfE_bMk63)
 
 # Results:
 
